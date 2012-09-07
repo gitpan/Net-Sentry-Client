@@ -9,7 +9,7 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "turns baubles into trinkets",
+  "ABSTRACT" => "a client for a Sentry server.",
   "AUTHOR" => "Fran Rodriguez <kio\@cpan.org>",
   "BUILD_REQUIRES" => {
     "Test::Fatal" => 0,

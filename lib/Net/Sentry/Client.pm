@@ -1,5 +1,5 @@
 package Net::Sentry::Client;
-# ABSTRACT: turns baubles into trinkets
+
 
 use strict;
 use warnings;
@@ -102,11 +102,23 @@ __END__
 
 =head1 NAME
 
-Net::Sentry::Client - turns baubles into trinkets
+Net::Sentry::Client
 
 =head1 VERSION
 
 version 0.001
+
+=head1 NAME
+
+Net::Sentry::Client - a client for a Sentry server.
+
+=head1 VERSION
+
+version 0.001
+
+=head1 SEE ALSO
+
+http://sentry.readthedocs.org/en/latest/index.html
 
 =head1 AUTHOR
 

@@ -1,5 +1,5 @@
 ---
-abstract: 'turns baubles into trinkets'
+abstract: 'a client for a Sentry server.'
 author:
   - 'Fran Rodriguez <kio@cpan.org>'
 build_requires:
